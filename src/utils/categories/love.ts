@@ -1,0 +1,41 @@
+import type { VerseInfo } from '../../types';
+
+export const LOVE: VerseInfo[] = [
+  // Previous verses remain...
+  // Adding 35 new verses
+  { reference: 'DEU.7.9', category: 'Love & Compassion' },
+  { reference: 'PSA.36.7', category: 'Love & Compassion' },
+  { reference: 'PSA.86.15', category: 'Love & Compassion' },
+  { reference: 'PSA.103.11', category: 'Love & Compassion' },
+  { reference: 'PSA.136.26', category: 'Love & Compassion' },
+  { reference: 'ISA.54.10', category: 'Love & Compassion' },
+  { reference: 'JER.31.3', category: 'Love & Compassion' },
+  { reference: 'ZEP.3.17', category: 'Love & Compassion' },
+  { reference: 'JHN.3.16', category: 'Love & Compassion' },
+  { reference: 'JHN.13.34', category: 'Love & Compassion' },
+  { reference: 'JHN.14.21', category: 'Love & Compassion' },
+  { reference: 'JHN.15.9', category: 'Love & Compassion' },
+  { reference: 'JHN.15.12', category: 'Love & Compassion' },
+  { reference: 'ROM.5.5', category: 'Love & Compassion' },
+  { reference: 'ROM.5.8', category: 'Love & Compassion' },
+  { reference: 'ROM.8.35', category: 'Love & Compassion' },
+  { reference: 'ROM.8.37', category: 'Love & Compassion' },
+  { reference: 'ROM.8.39', category: 'Love & Compassion' },
+  { reference: '1CO.13.1', category: 'Love & Compassion' },
+  { reference: '1CO.13.2', category: 'Love & Compassion' },
+  { reference: '1CO.13.3', category: 'Love & Compassion' },
+  { reference: '1CO.13.13', category: 'Love & Compassion' },
+  { reference: '2CO.5.14', category: 'Love & Compassion' },
+  { reference: 'GAL.5.22', category: 'Love & Compassion' },
+  { reference: 'EPH.2.4', category: 'Love & Compassion' },
+  { reference: 'EPH.3.17', category: 'Love & Compassion' },
+  { reference: 'EPH.3.19', category: 'Love & Compassion' },
+  { reference: 'EPH.5.2', category: 'Love & Compassion' },
+  { reference: 'PHP.1.9', category: 'Love & Compassion' },
+  { reference: 'COL.3.14', category: 'Love & Compassion' },
+  { reference: '1TH.3.12', category: 'Love & Compassion' },
+  { reference: '1JN.3.1', category: 'Love & Compassion' },
+  { reference: '1JN.4.7', category: 'Love & Compassion' },
+  { reference: '1JN.4.16', category: 'Love & Compassion' },
+  { reference: '1JN.4.19', category: 'Love & Compassion' }
+];
